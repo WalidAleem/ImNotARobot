@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">I\'m Not A Robot</string>
+
+
+
+    <string name="clickMe_button_text">1 "\n" "\n" "\n" "\n"
+        Please click here to reveal who I\'m! i may be inverted, reflected or distorted! then choose the right answer </string>
+
+    <string name="clickMe_button_text_2">2 "\n" "\n" "\n" "\n"  Please click here to reveal who I\'m! i may be inverted,
+        reflected or distorted! then choose the right answer </string>
+
+
+    <string name="clickMe_button_text_3">3 "\n" "\n" "\n" "\n"  Please click here to reveal who I\'m! i may be inverted,
+        reflected or distorted! then choose the right answer </string>
+
+    <string name="clickMe_button_text_4">4 "\n" "\n" "\n" "\n"  Please click here to reveal who I\'m! i may be inverted,
+        reflected or distorted! then choose the right answer </string>
+
+    <string name="clickMe_button_text_5">5 "\n" "\n" "\n" "\n"  Please click here to reveal who I\'m! i may be inverted,
+        reflected or distorted! then choose the right answer </string>
+
+
+
+    <string name="first_question">This is a character recognition quiz! please focus as much as you can! </string>
+    <string name="second_question">Some people afraid of me although I can bring them happiness</string>
+    <string name="third_question">I\'m an event driven that commonly be determined by direct observation!</string>
+    <string name="fourth_question">Be a friend of me and stronger you wil be!</string>
+    <string name="fifth_question">I\'m the key of all good moral aspects in whole life! </string>
+
+
+
+
+
+   <string name="back">Back</string>
+
+    <string name="next">Next</string>
+
+    <string name="send">Send</string>
+    <string name="enter">Send</string>
+
+
+
+    <!-- radio buttons - the answers -->
+    <string name="text_rb__1_page_1">J</string>
+    <string name="text_rb__2_page_1">T</string>
+    <string name="text_rb__3_page_1">I</string>
+    <string name="text_rb__4_page_1">L</string>>
+
+    <string name="text_rb__1_page_2">K</string>
+    <string name="text_rb__2_page_2">M</string>
+    <string name="text_rb__3_page_2">B</string>
+    <string name="text_rb__4_page_2">R</string>>
+
+    <string name="text_rb__1_page_3">C</string>
+    <string name="text_rb__2_page_3">W</string>
+    <string name="text_rb__3_page_3">U</string>
+    <string name="text_rb__4_page_3">B</string>>
+
+
+
+    <string name="text_rb__1_page_4">T</string>
+    <string name="text_rb__2_page_4">M</string>
+    <string name="text_rb__3_page_4">H</string>
+    <string name="text_rb__4_page_4">E</string>>
+
+
+    <string name="text_rb__1_page_5">F</string>
+    <string name="text_rb__2_page_5">H</string>
+    <string name="text_rb__3_page_5">K</string>
+    <string name="text_rb__4_page_5">R</string>>
+
+
+
+
+    <!--page 6-->
+
+
+    <string name="check_box_1">Page 1</string>
+    <string name="check_box_2">Page 2</string>
+    <string name="check_box_3">Page 3</string>
+    <string name="check_box_4">Page 4</string>
+
+
+
+
+   <string name="check_box_question">6 "\n" We have displayed in previous pages 2 synonym words!
+     what are those pages number?</string>
+
+    <string name="last_question">7  "\n" Type the word consist of the letters you collected,
+        press send to submit your answer within email</string>
+
+    <string name="word_field">Type the word</string>
+
+    <!-- control buttons -->
+
+    <string name="resume">Resume</string>
+
+
+    <string name="score">0</string>
+
+
+
+</resources>

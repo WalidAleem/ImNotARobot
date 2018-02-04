@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="score_id" type="id">score_text_view</item>
+</resources>

@@ -1,4 +1,4 @@
-# ImNotARobot
+# I'm Not A Robot
 I’m Not A robot is a character recognition Quiz App that has been built for Udacity Google Android Basics Scholarship
 during the period of Nov. 2017 – Feb. 2018. The project was one of three required projects to finish the scholarship
 ## Quick Overview 
